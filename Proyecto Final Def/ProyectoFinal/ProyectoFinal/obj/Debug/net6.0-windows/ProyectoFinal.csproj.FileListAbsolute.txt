@@ -1,0 +1,212 @@
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\PC-Casa\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+D:\UPN\2022-1\FUNDAMENTOS DE PROGRAMACIÓN\EXAMEN FINAL\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\PC-Casa\Desktop\idoma\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\PC-Casa\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\Funpro T4\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form9.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form9.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\PC-Casa\Desktop\T4 FUNPRO PROYECTO\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form9.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\DYAB\Downloads\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form1.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form2.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form3.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form4.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form5.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form6.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.Form7.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form8.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form9.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\AvanzandoProyecto.PaisEncontrado.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\DYAB\Desktop\Proyecto Final Def\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
